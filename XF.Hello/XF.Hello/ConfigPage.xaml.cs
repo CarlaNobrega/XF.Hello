@@ -14,7 +14,7 @@ namespace XF.Hello
 	{
 		public ConfigPage ()
 		{
-            //Configuracao configuracao = InitConfiguracao(true, false, true, false, true);
+            //Configuracao configuracao = InitConfiguracao(true, false, true, false, true); teste
             BindingContext = App.ConfigModel;
 			InitializeComponent ();
 		}
