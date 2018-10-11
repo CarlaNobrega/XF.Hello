@@ -14,6 +14,7 @@ namespace XF.Hello
 	{
 		public ConfigPage ()
 		{
+            //Inotifypropertychanges vai precisar para criar o projeto
             //Configuracao configuracao = InitConfiguracao(true, false, true, false, true); teste
             BindingContext = App.ConfigModel;
 			InitializeComponent ();
